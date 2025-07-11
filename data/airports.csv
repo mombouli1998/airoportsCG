@@ -1,0 +1,58 @@
+id,type,name,municipality,score,last_updated
+2868,medium_airport,Maya-Maya Airport,Brazzaville,750,2008
+2871,medium_airport,Antonio Agostinho-Neto International Airport,Pointe Noire,750,2021
+30920,medium_airport,Ngot Nzoungou Airport,Dolisie,500,2025
+2870,medium_airport,Ouesso Airport,Ouesso,250,2024
+2869,medium_airport,Owando Airport,Owando,250,2025
+31680,small_airport,Impfondo Airport,Impfondo,50,2024
+31959,small_airport,Mossendjo Airport,Mossendjo,50,2024
+32036,small_airport,Yokangassi Airport,Nkayi,50,2016
+30645,small_airport,Zanaga Airport,Zanaga,50,2024
+323021,medium_airport,Oyo Ollombo Airport,Oyo,250,2025
+31081,small_airport,Aubeville Airport,Aubeville,50,2008
+31096,small_airport,Bangamba Airport,Bangamba,50,2008
+30798,small_airport,Betou Airport,Betou,50,2024
+322352,small_airport,Bomassa Airport,Bomassa,50,2017
+30784,small_airport,Boundji Airport,Boundji,50,2024
+30921,small_airport,Djambala Airport,Djambala,50,2020
+333205,small_airport,Enyele Airport,Enyele,50,2020
+31032,small_airport,Ewo Airport,Ewo,50,2024
+31543,small_airport,Gamboma Airport,Gamboma,50,2012
+31086,small_airport,Gokango Airport,Gokango,50,2008
+31087,small_airport,Irogo Airport,Irogo,50,2008
+31088,small_airport,Kele Kibangou Airport,Kele Kibangou,50,2008
+31740,small_airport,Kelle Airport,Kelle,50,2025
+31098,small_airport,Kibangou Airport,Kibangou,50,2008
+31763,small_airport,Kindamba Airport,Kindamba,50,2024
+31078,small_airport,La Louila Airport,La Louila,50,2008
+31798,small_airport,Lague Airport,Lague,50,2024
+31089,small_airport,Leboulou Airport,Leboulou,50,2008
+31094,small_airport,Legala Airport,Legala,50,2008
+31097,small_airport,Leganda Airport,Leganda,50,2008
+313916,small_airport,Lekana Airport,Lekana,50,2015
+31099,small_airport,Loubetsi Airport,Loubetsi,50,2008
+31085,small_airport,Loufoula Airport,Loufoula,50,2008
+31103,small_airport,Loukanyi Airport,Loukanyi,50,2021
+31080,small_airport,Loutete Airport,Loutete,50,2008
+31079,small_airport,M'passa Airport,M'passa,50,2008
+31760,small_airport,Makabana Airport,Makabana,50,2024
+31917,small_airport,Makoua Airport,Makoua,50,2025
+31091,small_airport,Mandoro Airport,Mandoro,50,2008
+31092,small_airport,Marala Airport,Marala,50,2008
+321378,small_airport,Matoko Airport,Matoko,50,2016
+31082,small_airport,Mavinza Airport,Mavinza,50,2008
+333204,small_airport,Mokabi Airport,Mokabi,50,2020
+31971,small_airport,Mouyondzi Airport,Mouyondzi,50,2024
+31090,small_airport,N'gongo Airport,N'gongo,50,2008
+31095,small_airport,N'Zabi Airport,N'Zabi,50,2008
+31100,small_airport,N'komo Airport,N'zambi,50,2021
+31083,small_airport,N'Ziba Airport,N'Ziba,50,2008
+31101,small_airport,Noumbi Airport,Noumbi,50,2021
+31093,small_airport,Nyanga Airport,Nyanga,50,2008
+32110,small_airport,Okoyo Airport,Okoyo,50,2015
+31102,small_airport,Pemo Airport,Pemo,50,2008
+32300,small_airport,Sibiti Airport,Sibiti,50,2024
+31084,small_airport,Sidetra Airport,Sidetra,50,2008
+32344,small_airport,Souanke Airport,Souanke,50,2024
+333206,small_airport,Thanry Airport,Thanry,50,2020
+595634,closed,Obouya Airfield,Obouya,0,2025

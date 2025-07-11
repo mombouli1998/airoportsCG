@@ -1,0 +1,9 @@
+"""
+creation de la base de données
+sqlite3 airportsCongo.db
+create table airports(id integer primary key, type text, name text, municipality text, score integer, last_updated integer, foreign key(municipality) references municipalities(municipality));
+create table municipalities(municipality text primary key, region_name text, latitude_deg real, longitude_deg real, elevation_ft integer);
+.mode csv
+.import --skip 1 ../data/airports.csv airports
+.import --skip 1 ../data/municipalities.csv municipalities
+"""
