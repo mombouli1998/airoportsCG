@@ -1,0 +1,22 @@
+# fichiers python compilés
+
+__pycache__/
+*.pyc
+*.python
+
+# fichiers de logs
+
+*.logs
+
+# repertoire git
+
+.git
+.gitignore
+
+# fichier system
+
+.DS_Store
+
+# cache pip 
+
+pip-wheel-metadata/
